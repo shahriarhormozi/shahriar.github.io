@@ -1,4 +1,5 @@
 # shahriar.github.io
-theme: jekyll-theme-minimal
-title: Octocat's homepage
+theme: minima
+title: Shahriar
+remote_theme: benbalter/retlab
 description: Bookmark this to keep an eye on my project updates!
